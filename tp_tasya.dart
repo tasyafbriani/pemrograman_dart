@@ -15,8 +15,8 @@ void main() {
   var keliling = 2 *(a+ B);
   var luas = A * T;
 
-  print('alas jajar genjang: $A dan tinggi jajar genjang: $T, Jadi luas JAJAR GENJANG adalah:$luas');
-  print('SISI A jajar genjang: $a dan SISI B jajar genjang: $B, Jadi keliling JAJAR GENJANG adalah:$keliling');
+  print('Jadi luas JAJAR GENJANG adalah:$luas');
+  print('Jadi keliling JAJAR GENJANG adalah:$keliling');
   
 
 }

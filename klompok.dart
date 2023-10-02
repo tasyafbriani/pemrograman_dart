@@ -9,8 +9,8 @@ void main() {
   var keliling = P * L;
   var luas = (2 * (P + L));
 
-  print('panjang persegi panjang: $P dan luas persegi panjang: $L,keliling persegi panjang adalah:$keliling');
-  print('panjang persegi panjang: $P dan luas persegi panjang: $L,luas persegi panjang adalah:$luas');
+  print('keliling persegi panjang adalah:$keliling');
+  print('luas persegi panjang adalah:$luas');
   print("BY Kelompok:Tasya Nur Febriani Putri,Tita Puspitasari,Dini Oktapriyanti,Bela Nurseha,Sabila Agustina");
 
 }
